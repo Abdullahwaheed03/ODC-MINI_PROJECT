@@ -11,11 +11,11 @@
 
 
 flag=y
-d_pass=$(cat password | tail -1 )
+
 
 while [ $flag == y ];
 do 
-
+d_pass=$(cat password | tail -1 )
 echo -ne " Welcome to Data base  !  \n \n Enter 1 for admin mode 2 for user mode : " 
 read mode 
 echo -e "\n"
