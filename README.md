@@ -1,2 +1,2 @@
 # ODC-MINI_PROJECT
-# data mangement system for bank 
+ data mangement system for bank 
