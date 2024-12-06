@@ -1,9 +1,13 @@
 #! /bin/bash 
 
+#-----------------ODC-EMBEDDED LINUX INTERN MINI PROJECT WEEK 1 -----------------# 
+
 
 # @author : abdullah waheed 
 # @date   : 5 - 12 - 2024 
-# @brief  : Bank Data base
+# @brief  : Bank Data mangement system by bash script
+
+
 
 
 flag=y
